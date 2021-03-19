@@ -38,8 +38,11 @@ AMR allows the employees of the service company (electricity/gas/water) or prefe
 ## **Technologies:**
 
 * CNN
-  * Train: [SVHN(The Street View House Numbers)](http://ufldl.stanford.edu/housenumbers/)
-  * Test: [Analog Meter Images](https://github.com/ayseceyda/analog-meter-reading-openCV/tree/main/images) **[thanks to yamato/yamaton:](https://github.com/yamaton/water-meter-reading)**
+  * Train: [SVHN (The Street View House Numbers)](http://ufldl.stanford.edu/housenumbers/)
+  * Test: [Analog Meter Images](https://github.com/ayseceyda/analog-meter-reading-openCV/tree/main/images) 
+  
+  **[thanks to yamato/yamaton:](https://github.com/yamaton/water-meter-reading)**
+  
 * Python
 * Keras
 * Tensorflow
