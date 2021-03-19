@@ -22,10 +22,12 @@ Conversion of images typed, handwritten or printed text into machine-encoded tex
 AMR allows the employees of the service company (electricity/gas/water) or preferably, the consumers themselves to capture meter images using a mobile device, which is cheaper and more feasible than manual on-site reading, and easier to deploy - in the short/medium term - than the replacement of old meters.
 
 ### **Two main categories:**
+
 **1.Analog:** Cyclometer and dial displays
+
 **2.Digital:** Electronic display and smart meters
 
-### ** Difficulties in AMR:**
+### **Difficulties in AMR:**
 
 * Poor file resolution
 * Blurry images, particularly motion blur
@@ -44,4 +46,8 @@ AMR allows the employees of the service company (electricity/gas/water) or prefe
 
 ## **Accuracy:** %57 - %65
 
-** Accuracy may increase/decrease due to changes in the pre-processing steps or the image quality (brightness, luminance, contrast etc.) **
+**Accuracy may increase/decrease due to changes in the pre-processing steps or the image quality (brightness, luminance, contrast etc.)**
+
+## **Result:**
+
+![croped](https://user-images.githubusercontent.com/29989590/111771499-d5f89780-88bc-11eb-8406-fb434d147356.png)
