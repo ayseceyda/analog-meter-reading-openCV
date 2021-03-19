@@ -1,4 +1,4 @@
-# OCR Based Analog Meter Reading Project 
+# OCR / Analog Meter Reading Project 
 
 **Topic:** AMR (automatic meter reading) project for analog meters, built with openCV+Python using basic OCR and image processing knowledge.
 
