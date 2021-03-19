@@ -49,12 +49,12 @@ AMR allows the employees of the service company (electricity/gas/water) or prefe
 * OpenCV
 * Pandas
 
-## **Accuracy:** 
+## **Accuracy** 
 
-**%57 - %65**
+#### **%57 - %65**
 
 Accuracy may increase/decrease due to changes in the pre-processing steps or the image quality (brightness, luminance, contrast etc.)
 
-## **Steps with an example**
+## **Result**
 
 ![croped](https://user-images.githubusercontent.com/29989590/111771499-d5f89780-88bc-11eb-8406-fb434d147356.png)
