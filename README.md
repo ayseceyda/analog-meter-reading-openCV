@@ -35,13 +35,13 @@ AMR allows the employees of the service company (electricity/gas/water) or prefe
 * Poor lighting and low contrast due to overexposure, reflection or shadows
 * An object obscuring (dirt, broken glass etc.)
 
-## **Technologies:**
+## **Technologies**
 
 * CNN
   * Train: [SVHN (The Street View House Numbers)](http://ufldl.stanford.edu/housenumbers/)
   * Test: [Analog Meter Images](https://github.com/ayseceyda/analog-meter-reading-openCV/tree/main/images) 
   
-  **[thanks to yamato/yamaton:](https://github.com/yamaton/water-meter-reading)**
+  **[big thanks to yamato/yamaton](https://github.com/yamaton/water-meter-reading)**
   
 * Python
 * Keras
@@ -49,10 +49,12 @@ AMR allows the employees of the service company (electricity/gas/water) or prefe
 * OpenCV
 * Pandas
 
-## **Accuracy:** %57 - %65
+## **Accuracy:** 
 
-**Accuracy may increase/decrease due to changes in the pre-processing steps or the image quality (brightness, luminance, contrast etc.)**
+**%57 - %65**
 
-## **Steps with an example:**
+Accuracy may increase/decrease due to changes in the pre-processing steps or the image quality (brightness, luminance, contrast etc.)
+
+## **Steps with an example**
 
 ![croped](https://user-images.githubusercontent.com/29989590/111771499-d5f89780-88bc-11eb-8406-fb434d147356.png)
