@@ -40,6 +40,7 @@ AMR allows the employees of the service company (electricity/gas/water) or prefe
 * CNN
   * Train: [SVHN (The Street View House Numbers)](http://ufldl.stanford.edu/housenumbers/)
   * Test: [Analog Meter Images](https://github.com/ayseceyda/analog-meter-reading-openCV/tree/main/images) 
+  * Test Image Values: [.xlsx](https://github.com/ayseceyda/analog-meter-reading-openCV)
   
   **[big thanks to yamato/yamaton](https://github.com/yamaton/water-meter-reading)**
   
