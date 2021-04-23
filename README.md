@@ -79,15 +79,25 @@ Accuracy may increase/decrease due to changes in the pre-processing steps or the
 * Tesseract-OCR
   * Mimari
   * Seçenekler
+  
     a. language
+    
     b. oem
+    
     c. psm
+    
     d. config 
+    
   * Kurulum
+  
     a. Windows
+    
     b. GNU/Linux
+    
     c. Pytesseract + Colab
+    
   * Performans İyileştirmeleri
+  
 * Sonuç
 * Kaynaklar
   
